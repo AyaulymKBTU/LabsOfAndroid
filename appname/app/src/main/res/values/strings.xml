@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Appname</string>
+    <string name="email">Enter E-Mail</string>
+    <string name="button_text">sign in</string>
+    <string name="no_reg">Not registered yet?</string>
+    <string name="pass">Password</string>
+    <string name="myapp1">MARK</string>
+    <string name="myapp2">ET</string>
+    <string name="face">Sign in with Facebook</string>
+    <string name="sig">Sign Up Now</string>
+
+</resources>
